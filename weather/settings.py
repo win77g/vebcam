@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'baner',
     'live_camers',
     'news',
-    'inex',
+    # 'index',
 ]
 
 MIDDLEWARE = [
